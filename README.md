@@ -1,6 +1,6 @@
 # SideProject01-PersonalWeb
 個人獨立小型專案<br>
-<img src="">
+<img src="https://github.com/Crystal9202/SideProject02-DataAnalysis/blob/master/project.png"></img>
 
 #介紹
 第二個個人獨立小型專案，以商品數據分析為主。未來會再增加機器學習、深度學習演算法，訓練出一個預測模型。

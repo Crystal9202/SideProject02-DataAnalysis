@@ -1,6 +1,6 @@
 # SideProject02-DataAnalysis
 個人獨立小型專案<br>
-PowerPoint : <a href="https://github.com/Crystal9202/SideProject02-DataAnalysis/blob/master/Sideprojetc.pptx"></a><br>
+PowerPoint : <a href="https://github.com/Crystal9202/SideProject02-DataAnalysis/blob/master/Sideprojetc.pptx">https://github.com/Crystal9202/SideProject02-DataAnalysis/blob/master/Sideprojetc.pptx</a><br>
 <img src="https://github.com/Crystal9202/SideProject02-DataAnalysis/blob/master/project.png"></img>
 <br>
 # 介紹
